@@ -65,7 +65,8 @@ class App extends React.Component {
      },
      fontTitle: {
          fontFamily: 'Coming Soon ,cursive',
-        fontsize: "3rem"
+        fontsize: "3rem",
+        fontWeight: "bolder"
      }
   }
 
