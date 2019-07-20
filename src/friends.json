@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "Peter Parker",
+    "image": "./IMG/PP.png",
+    "location": "616"
+  },
+  {
+    "id": 2,
+    "name": "Miguel O'Hara 2099",
+    "image": "./IMG/2099.png",
+    "location": "928"
+  },
+  {
+    "id": 3,
+    "name": "Miles Morales",
+    "image": "./IMG/03.png",
+    "location": "1610"
+  },
+  {
+    "id": 4,
+    "name": "SpiderHam",
+    "image": "./IMG/04.png",
+    "location": "8311"
+  },
+  {
+    "id": 5,
+    "name": "Cosmic Spiderman",
+    "image": "./IMG/05.png",
+    "location": "91110"
+  },
+  {
+    "id": 6,
+    "name": "Master Weaver",
+    "image": "./IMG/06.png",
+    "location": "000"
+  },
+  {
+    "id": 7,
+    "name": "Spider Punk",
+    "image": "./IMG/07.png",
+    "location": "138"
+  },
+  {
+    "id": 8,
+    "name": "SpiderGwen",
+    "image": "./IMG/08.png",
+    "location": "65"
+  },
+  {
+    "id": 9,
+    "name": "Silk",
+    "image": "./IMG/09.png",
+    "location": "616"
+  },
+  {
+    "id": 10,
+    "name": "Spiderman 1967",
+    "image": "./IMG/10.png",
+    "location": "6799"
+  },
+  {
+    "id": 11,
+    "name": "Superior Spiderman (Otto Octavius)",
+    "image": "./IMG/11.png",
+    "location": "616"
+  },
+  {
+    "id": 12,
+    "name": "Anatomicaly Correct Spiderman",
+    "image": "./IMG/12.png",
+    "location": "616"
+  }]
