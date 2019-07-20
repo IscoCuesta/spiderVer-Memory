@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/spiderVer-Memory/static/css/main.569bce2c.chunk.css",
-    "main.js": "/spiderVer-Memory/static/js/main.71b7952e.chunk.js",
-    "main.js.map": "/spiderVer-Memory/static/js/main.71b7952e.chunk.js.map",
-    "runtime~main.js": "/spiderVer-Memory/static/js/runtime~main.be229f71.js",
-    "runtime~main.js.map": "/spiderVer-Memory/static/js/runtime~main.be229f71.js.map",
-    "static/js/2.884c28c3.chunk.js": "/spiderVer-Memory/static/js/2.884c28c3.chunk.js",
-    "static/js/2.884c28c3.chunk.js.map": "/spiderVer-Memory/static/js/2.884c28c3.chunk.js.map",
-    "index.html": "/spiderVer-Memory/index.html",
-    "precache-manifest.84c8e5bc533a7f1f20bc1e24272c67c1.js": "/spiderVer-Memory/precache-manifest.84c8e5bc533a7f1f20bc1e24272c67c1.js",
-    "service-worker.js": "/spiderVer-Memory/service-worker.js",
-    "static/css/main.569bce2c.chunk.css.map": "/spiderVer-Memory/static/css/main.569bce2c.chunk.css.map"
+    "main.css": "/spiderVer-Memory/index.html/static/css/main.048f2b7e.chunk.css",
+    "main.js": "/spiderVer-Memory/index.html/static/js/main.71b7952e.chunk.js",
+    "main.js.map": "/spiderVer-Memory/index.html/static/js/main.71b7952e.chunk.js.map",
+    "runtime~main.js": "/spiderVer-Memory/index.html/static/js/runtime~main.05102bc4.js",
+    "runtime~main.js.map": "/spiderVer-Memory/index.html/static/js/runtime~main.05102bc4.js.map",
+    "static/js/2.884c28c3.chunk.js": "/spiderVer-Memory/index.html/static/js/2.884c28c3.chunk.js",
+    "static/js/2.884c28c3.chunk.js.map": "/spiderVer-Memory/index.html/static/js/2.884c28c3.chunk.js.map",
+    "index.html": "/spiderVer-Memory/index.html/index.html",
+    "precache-manifest.14316efd9a1ef2699fb08efd065cd229.js": "/spiderVer-Memory/index.html/precache-manifest.14316efd9a1ef2699fb08efd065cd229.js",
+    "service-worker.js": "/spiderVer-Memory/index.html/service-worker.js",
+    "static/css/main.048f2b7e.chunk.css.map": "/spiderVer-Memory/index.html/static/css/main.048f2b7e.chunk.css.map"
   }
 }

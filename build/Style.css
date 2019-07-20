@@ -1,0 +1,7 @@
+#BG {
+    background-image: url("./IMG/BG.gif");
+    position: fixed;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+}
